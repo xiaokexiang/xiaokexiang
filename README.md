@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello! You are No. <img src="https://profile-counter.glitch.me/xiaokexiang/count.svg" > visitor 🎈🎈🎈
+### Hello! You are the no. <img src="https://profile-counter.glitch.me/xiaokexiang/count.svg" > visitor 🎈🎈🎈
 
 <br/>
 
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats-6tflizi9n-xiaokexiang.vercel.app/api?username=xiaokexiang&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&hide=contribs,issues" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats-6tflizi9n-xiaokexiang.vercel.app/api/top-langs/?username=xiaokexiang&hide_border=true&layout=compact" />
+  <img align="center" src="https://github-readme-stats-6tflizi9n-xiaokexiang.vercel.app/api/top-langs/?username=xiaokexiang&hide_border=true&layout=compact&hide=Freemarker&count_private=true" />
 </a>
 <br/>
 
