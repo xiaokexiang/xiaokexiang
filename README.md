@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 ### Github Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-6tflizi9n-xiaokexiang.vercel.app/api?username=xiaokexiang&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&hide=contribs,issues" />
+  <img align="center" src="https://github-readme-stats-mauve-eight-74.vercel.app/api?username=xiaokexiang&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&hide=contribs,issues" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats-6tflizi9n-xiaokexiang.vercel.app/api/top-langs/?username=xiaokexiang&hide_border=true&layout=compact&hide=Freemarker&count_private=true" />
+  <img align="center" src="https://github-readme-stats-mauve-eight-74.vercel.app/api/top-langs/?username=xiaokexiang&hide_border=true&layout=compact&hide=Freemarker,javascript,html,css&count_private=false" />
 </a>
 <br/>
 
